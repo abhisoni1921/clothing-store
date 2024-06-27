@@ -22,12 +22,4 @@ Include screenshots or GIFs showcasing the website's user interface and features
 ![Footer-section of Website](screenshot/footer-section.png)
 
 
-## Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/fashion-avenue.git
-
-
-🛍️ Welcome to our Clothing Store - your ultimate destination for online shopping and fashion inspiration! Our stylish clothing website is meticulously crafted using HTML, CSS, and the art of web development. Experience the thrill of browsing through a vast collection of trendy apparel, hand-picked for fashion enthusiasts like you. With a responsive design, our website ensures a seamless and visually captivating experience across all devices. Whether you're a clothing retailer or a fashion-forward individual, this project serves as the perfect foundation to showcase your passion for style. Embark on this exciting web development project and create your very own virtual clothing boutique. Let's make a fashionable mark on the digital runway together! 💃👗👔
+**<p align='center'>You can find the website live <a href="https://abhisoni1921.github.io/clothing-store/">here</a></p>**
